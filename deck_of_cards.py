@@ -48,3 +48,4 @@ card2 = d.deal_card()
 print(card2)
 print(d.cards)
 #card2 = d.deal_card()
+
